@@ -241,6 +241,20 @@ body {
 	min-width: 160px;
 	transition: .2s ease background, 0.2s ease border;
 	outline: 0;
+	animation: scale 1s;
+	animation-delay: 2s;
+}
+
+@keyframes scale {
+	0% { 
+		transform: scale(1); 
+	}
+	50% {
+		transform: scale(1.2); 
+	}
+	100% { 
+		transform: scale(1); 
+	}
 }
 
 #play:hover {
