@@ -1,6 +1,6 @@
 # HTML / CSS Art
 
-- Using code to generate art (no images or graphical editing softare involved)
+- Using code to generate art (no images or graphical editing software involved)
 - Hexadecimal color codes
 - Requires creative problem solving
 - Very small file size compared to an image 
