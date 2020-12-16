@@ -152,7 +152,7 @@ body {
 	border-top-right-radius: 50px;
 	box-shadow: 1px 2px 3px #2e4c73;
 	z-index: 5;
-	animation: float 18s infinite;
+	animation: float 20s infinite;
 }
 
 .sub-cloud {
@@ -181,7 +181,7 @@ body {
 	top: 96px;
 	transform: scale(0.8);
 	z-index: 4;
-	animation: float 20s infinite;
+	animation: float 22s infinite;
 	animation-delay: 4s;
 }
 
@@ -189,7 +189,7 @@ body {
 	top: 215px;
 	transform: scale(1.25);
 	z-index: 10;
-	animation: float 22s infinite;
+	animation: float 24s infinite;
 	animation-delay: 2s;
 }
 
