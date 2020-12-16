@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <div class="artboard">
+    <div class="artboard" id="artboard">
         
         <div class="sun"></div>
 
@@ -26,17 +26,31 @@
 
     </div>
 
-    <div>Time of day: </div>
-    <div>
-        <input type="radio" id="morning" name="time" class="time-option" value="morning">
-        <label for="morning">Morning</label>
- 
-        <input type="radio" id="midday" name="time" class="time-option" value="midday">
-        <label for="midday">Midday</label>
- 
-        <input type="radio" id="evening" name="time" class="time-option" value="evening">
-        <label for="evening">Evening</label>
-      </div>
+    <div class="time-controls">
+        <legend>Time of day: </legend>
+        <div>
+            <div class="form-control">
+                <input checked type="radio" id="early-morning" name="time" class="time-option" value="early-morning">
+                <label for="early-morning">Early Morning</label>
+            </div>
+            
+            <div class="form-control">
+                <input type="radio" id="late-morning" name="time" class="time-option" value="late-morning">
+                <label for="late-morning">Late Morning</label>
+            </div>
+
+            <div class="form-control">
+                <input type="radio" id="early-afternoon" name="time" class="time-option" value="early-afternoon">
+                <label for="early-afternoon">Early Afternoon</label>
+            </div>
+
+            <div class="form-control">
+                <input type="radio" id="late-afternoon" name="time" class="time-option" value="late-afternoon">
+                <label for="late-afternoon">Late Afternoon</label>
+            </div>
+            
+        </div>
+    </div>
 
 <script src="art.js"></script>
 

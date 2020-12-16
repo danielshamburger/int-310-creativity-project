@@ -241,7 +241,7 @@ body {
 	min-width: 160px;
 	transition: .2s ease background, 0.2s ease border;
 	outline: 0;
-	animation: scale 1s;
+	animation: scale 1.5s;
 	animation-delay: 2s;
 }
 
@@ -250,7 +250,7 @@ body {
 		transform: scale(1); 
 	}
 	50% {
-		transform: scale(1.2); 
+		transform: scale(1.5); 
 	}
 	100% { 
 		transform: scale(1); 
