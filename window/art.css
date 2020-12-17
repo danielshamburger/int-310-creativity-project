@@ -239,7 +239,7 @@ body {
 	font-size: 16px;
 	text-align: center;
 	min-width: 160px;
-	transition: .2s ease background, 0.2s ease border;
+	transition: .2s ease background, 0.2s ease border-color;
 	outline: 0;
 	animation: scale 1.5s;
 	animation-delay: 2s;
@@ -259,7 +259,7 @@ body {
 
 #play:hover {
 	background: #B35269;
-	border: 5px solid #B35269;
+	border-color: #B35269;
 }
 
 #play:focus {

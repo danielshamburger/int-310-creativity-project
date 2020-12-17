@@ -1,5 +1,5 @@
 ## [Architecture](https://danielshamburger.github.io/int-310-creativity-project/architecture/)
-- Based on the cover of Modern Houses of the World, by Serban Cantacuzino
+- Based on the cover of _Modern Houses of the World_, by Serban Cantacuzino
 
 ## [Mountains](https://danielshamburger.github.io/int-310-creativity-project/mountains/)
 - Inspired by _Giza_ by Boris Crowther
