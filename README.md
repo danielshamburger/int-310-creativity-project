@@ -6,4 +6,3 @@
 
 ## [Window](https://danielshamburger.github.io/int-310-creativity-project/window/)
 - Inspired by the cover art of Apple Music's _Mellow Days_ playlist
-
